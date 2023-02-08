@@ -1,0 +1,11 @@
+.two-columns__main-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 80%;
+  min-width: 784px;
+}
+
+.two-columns__main-text :last-child {
+  margin-bottom: 0px;
+}

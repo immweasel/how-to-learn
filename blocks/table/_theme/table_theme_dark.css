@@ -1,0 +1,5 @@
+.table_theme_dark {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  z-index: 1;
+}
