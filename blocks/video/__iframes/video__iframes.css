@@ -1,0 +1,12 @@
+.video__iframes {
+  display: flex;
+  flex-direction: row;
+  padding-top: 50px;
+  margin-bottom: -50px;
+  z-index: 5;
+}
+
+.video__iframes :nth-child(2) {
+  margin-right: 0;
+}
+
