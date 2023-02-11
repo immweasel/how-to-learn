@@ -1,4 +1,7 @@
 .table_theme_dark {
+  margin: 0;
+  padding: 0;
+  column-gap: 25px;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
   z-index: 1;

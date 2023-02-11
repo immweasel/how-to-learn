@@ -5,6 +5,7 @@
   flex-direction: column;
   width: 240px;
   align-items: center;
+  list-style-type:none;
 }
 
 .cards__item:nth-of-type(3) {
